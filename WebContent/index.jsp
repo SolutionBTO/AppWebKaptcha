@@ -27,9 +27,9 @@
 
 			if (c != null && parm != null) {
 				if (c.equals(parm)) {
-					out.println("<b>Código Kaptcha está correto.</b>");
+					out.println("<b>Código Kaptcha está correto.TESTESTESTE</b>");
 				} else {
-					out.println("<b>Ops, código Kaptcha está não correto!!!</b>");
+					out.println("<b>Ops, código Kaptcha está não correto!!!TESTESTESTE</b>");
 				}
 			}
 		%>
