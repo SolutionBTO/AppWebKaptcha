@@ -27,7 +27,7 @@
 
 			if (c != null && parm != null) {
 				if (c.equals(parm)) {
-					out.println("<b>C�digo Kaptcha est� correto.TESTANDOALTO/b>");
+					out.println("<b>C�digo Kaptcha est� correto.TESTANDOAtesLTO/b>");
 				} else {
 					out.println("<b>Ops, c�digo Kaptcha est� n�o correto!!!</b>");
 				}
