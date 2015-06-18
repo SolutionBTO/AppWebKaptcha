@@ -10,7 +10,7 @@
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
-		TESTE12344243214Digite o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		TESTE12ered4Digite o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
 		ver se ele corresponde ao que � armazenado nos atributos de sess�o.
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
