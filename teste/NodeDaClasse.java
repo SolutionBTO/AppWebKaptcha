@@ -11,16 +11,9 @@
  
 public class NodeDaClasse {
 
-	/**
-	 * Construtor
-	 **/
-	public NodeDaClasse ()
+	public static void main(String [] args)
 	{
+		System.out.println("teste123457675");
 	}
-	
-	public static void main (String[] args)
-  {
-    System.out.println("teste");
-  }
 
 }
