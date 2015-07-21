@@ -10,7 +10,7 @@
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
-		TESTE222eraerer o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		Teste 1234 o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
 		ver se ele corresponde ao que � armazenado nos atributos de sess�o.
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
@@ -27,7 +27,7 @@
 
 			if (c != null && parm != null) {
 				if (c.equals(parm)) {
-					out.println("<b>C�digo Kaptcha est� correto.</b>");
+					out.println("<b>Codigo Kaptcha estao correto.</b>");
 				} else {
 					out.println("<b>Ops, c�digo Kaptcha n�o est� correto!!!</b>");
 				}
