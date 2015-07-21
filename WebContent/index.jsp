@@ -10,7 +10,7 @@
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
-		Realizando um teste q gerará conflito o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		Realizando um teste com o conflito resolvido o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
 		ver se ele corresponde ao que ï¿½ armazenado nos atributos de sessï¿½o.
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
