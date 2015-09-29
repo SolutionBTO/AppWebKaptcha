@@ -10,8 +10,8 @@
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
-		TESTE222eraerer o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
-		ver se ele corresponde ao que ï¿½ armazenado nos atributos de sessï¿½o.
+		Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		ver se ele corresponde ao que está armazenado nos atributos de sessão.
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
 		 <input type="submit" value="Enviar"> 
@@ -27,7 +27,7 @@
 
 			if (c != null && parm != null) {
 				if (c.equals(parm)) {
-					out.println("<b>Cï¿½digo Kaptcha estï¿½ correto.</b>");
+					out.println("<b>Codigo Kaptcha estao correto.</b>");
 				} else {
 					out.println("<b>Ops, cï¿½digo Kaptcha nï¿½o estï¿½ correto!!!</b>");
 				}
