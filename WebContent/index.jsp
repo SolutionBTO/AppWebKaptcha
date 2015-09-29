@@ -21,7 +21,7 @@
 		<%
 			String c = (String) session
 					.getAttribute(com.google.code.kaptcha.Constants.KAPTCHA_SESSION_KEY);
-			String parm = (String) request.getParameter("kaptcha_field") teste123;
+			String parm = (String) request.getParameter("kaptcha_field") teste123 Conflitante;
 
 			//out.println("Parameter: " + parm + " ? Session Key: " + c + " : ");
 
