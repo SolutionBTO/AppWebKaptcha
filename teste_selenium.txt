@@ -1,2 +1,2 @@
 #send keys in lines
-Teste de Pull Teste de Pull Teste de Pull 
+TestePull 
