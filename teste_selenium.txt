@@ -1,2 +1,2 @@
 #send keys in lines
-HJKLÇMerg 
+ASDFGPull 
