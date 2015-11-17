@@ -10,8 +10,8 @@
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
-		Mais um teste o <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
-		ver se ele corresponde ao que ï¿½ armazenado nos atributos de sessï¿½o.
+		Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		ver se ele corresponde ao que está armazenado nos atributos de sessão. testete
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
 		 <input type="submit" value="Enviar"> 
@@ -21,7 +21,7 @@
 		<%
 			String c = (String) session
 					.getAttribute(com.google.code.kaptcha.Constants.KAPTCHA_SESSION_KEY);
-			String parm = (String) request.getParameter("kaptcha_field");
+			String parm = (String) request.getParameter("kaptcha_field") teste123REWET;
 
 			//out.println("Parameter: " + parm + " ? Session Key: " + c + " : ");
 
