@@ -1,0 +1,11 @@
+---
+applications:
+- name: aplicacaoCqContinua2
+  hostname: aplicacaoCqContinua2
+  memory: 512M
+  instances: 1
+  path: ./target/AppWebKaptcha-0.0.1-SNAPSHOT
+  buildpack: java_buildpack
+  timeout: 60
+  no-route: false
+  
