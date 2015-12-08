@@ -21,7 +21,7 @@
 		<%
 			String c = (String) session
 					.getAttribute(com.google.code.kaptcha.Constants.KAPTCHA_SESSION_KEY);
-			String parm = (String) request.getParameter("kaptcha_field") teste123REWET;
+			String parm = (String) request.getParameter("kaptcha_field");
 
 			//out.println("Parameter: " + parm + " ? Session Key: " + c + " : ");
 
@@ -29,7 +29,7 @@
 				if (c.equals(parm)) {
 					out.println("<b>Codigo Kaptcha estao correto.</b>");
 				} else {
-					out.println("<b>Ops, cï¿½digo Kaptcha nï¿½o estï¿½ correto!!!</b>");
+					out.println("<b>Ops, código Kaptcha não está correto!!!</b>");
 				}
 			}
 		%>
