@@ -4,7 +4,7 @@ applications:
   hostname: geramb
   memory: 512M
   instances: 1
-  path: ./target/sample-kaptcha.war
+  path: ./target/myapp-1.0-SNAPSHOT.war
   buildpack: java_buildpack
   timeout: 60
   no-route: false
