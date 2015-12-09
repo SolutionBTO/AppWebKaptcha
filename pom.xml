@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <description>Exemplo do uso do Kaptcha</description>
     <build>
+    	<finalName>sample-kaptcha</finalName>
         <resources/>
         <plugins>
             <plugin>
