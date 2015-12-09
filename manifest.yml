@@ -1,0 +1,10 @@
+---
+applications:
+- name: aplicacaoTesteCqContinua
+  hostname: geramb
+  memory: 512M
+  instances: 1
+  path: ./target/sample-kaptcha.war
+  buildpack: java_buildpack
+  timeout: 60
+  no-route: false
