@@ -23,7 +23,7 @@
                     <appname>MaisTeste</appname>
                     <url>http://maisteste.cronospaas.com</url>
                     <instances>1</instances>
-                    <memory>350</memory>
+                    <memory>35</memory>
                 </configuration>
             </plugin>
             <plugin>
