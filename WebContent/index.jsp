@@ -10,8 +10,8 @@
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
-		Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
-		TestetesteTESTE123TEste Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		TESTEClique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		 Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
 		ver se ele corresponde ao que estÃ¡ armazenado nos atributos de sessÃ£o.
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
