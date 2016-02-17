@@ -11,6 +11,7 @@
 	    <img src="kaptcha.jpg">
 	    <br>
 		TESTE1234 teste novo Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
+		TESTE123TEste Clique para ver o valor do <a href="http://code.google.com/p/kaptcha/">Kaptcha</a>, para
 		ver se ele corresponde ao que está armazenado nos atributos de sessão.
 		<br> 
 		 <input type="text" name="kaptcha_field"><br> 
