@@ -8,8 +8,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <description>Exemplo do uso do Kaptcha</description>
     <build>
-    	<finalName>sample-kaptcha</finalName>
         <resources/>
+        <finalName>sample-kaptcha</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
