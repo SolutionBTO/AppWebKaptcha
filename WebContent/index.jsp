@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>AppWebKaptcha</title>
 </head>
-<body style="background: lightblue;">
+<body>
 	<form name="exemplo_katpcha" method="post">
 	    <img src="kaptcha.jpg">
 	    <br>
